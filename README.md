@@ -1,2 +1,2 @@
-# E-commerce-website
-It is a e commerce website based on wordpress cms based system there are lots of features in it such as buy recommendations donation real time corona patient no. and many more. 
+# Single pager website
+It is a single a single pager website for a local youtuber who wanted to sell out their course to people.it has only two pages aone is home page and other is a codntact us aapage which only contains their address phone no.
